@@ -43,7 +43,7 @@
 
 ---
 
-## 🗺️️ Career Roadmap
+## 🗺️ Career Roadmap
 * 🟩 **[done]** Completed first-year engineering enrollment and finalized global digital profile baselines on LinkedIn & GitHub.
 * 🔵 **[in progress]** Mastering hardware-focused loops in C programming and building fundamental data tools in Python.
 * 🎯 **[goal]** Learn hardware description languages (Verilog/VHDL) and execute digital circuit simulation micro-projects.
