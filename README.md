@@ -1,10 +1,9 @@
 # Hi there, I'm YATISH A.S. 👋
 
-### 👨‍‍💻 First-Year ECE Student | Aspiring VLSI Designer & Embedded Systems Engineer | Long-term: Silicon Architecture
+### 👨‍💻 First-Year ECE Student | Aspiring VLSI Designer & Embedded Systems Engineer | Long-term: Silicon Architecture
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yatish-a-s-385611438)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/YATISH-AS
-)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/YATISH-AS)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:as.yatish1@gmail.com)
 
 ---
@@ -32,19 +31,19 @@
 
 ## 📌 Featured Repositories
 
-### ⚡ [c-programming-foundations](https://github.com/YOUR_GITHUB_USERNAME/c-programming-foundations)
+### ⚡ [c-programming-foundations](https://github.com/YATISH-AS/c-programming-foundations)
 *Academic workspace tracking core programming assignments and logic building loops.*
 * Focuses on structural loop operations, arrays, and algorithms inside engineering workflows.
 * `C Language` • `Academic Labs` • `Logic Building`
 
-### 🐍 [python-automation-scripts](https://github.com/YOUR_GITHUB_USERNAME/python-automation-scripts)
+### 🐍 [python-automation-scripts](https://github.com/YATISH-AS/python-automation-scripts)
 *Exploratory repository containing basic data scripting automation configurations.*
 * Tracks algorithmic challenge solutions and hardware data parsing practices.
 * `Python` • `Automation` • `Scripting`
 
 ---
 
-## 🗺️ Career Roadmap
+## 🗺️️ Career Roadmap
 * 🟩 **[done]** Completed first-year engineering enrollment and finalized global digital profile baselines on LinkedIn & GitHub.
 * 🔵 **[in progress]** Mastering hardware-focused loops in C programming and building fundamental data tools in Python.
 * 🎯 **[goal]** Learn hardware description languages (Verilog/VHDL) and execute digital circuit simulation micro-projects.
@@ -61,16 +60,16 @@
 ## 📊 GitHub Activity & Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YATISH-AS&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YATISH-AS&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YATISH-AS&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="50%" />
 </p>
 
 ---
 
 ## 📬 Connect With Me
 * Let's collaborate on baseline coding repositories or discuss emerging consumer microprocessors and chip layout engineering!
-* Reach out via [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME) or drop a direct inquiry at [as.yatish1@gmail.com](mailto:as.yatish1@gmail.com).
+* Reach out via [LinkedIn](https://linkedin.com/in/yatish-a-s-385611438) or drop a direct inquiry at [as.yatish1@gmail.com](mailto:as.yatish1@gmail.com).
